@@ -83,9 +83,9 @@ Partial Class Login
         ' 
         ' Login
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1009, 591)
+        ClientSize = New Size(1034, 586)
         Controls.Add(btnSubmit)
         Controls.Add(Label2)
         Controls.Add(Label1)
